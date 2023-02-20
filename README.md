@@ -1,6 +1,6 @@
-# Hello- app - terraform\
+# Hello - app - terraform\
 
-1. Run by using commands:
+Run by using commands:
   
   > terraform init
   > terraform plan
